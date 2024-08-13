@@ -28,11 +28,13 @@
     "PS":"https://waytosucceed.github.io/G8C23_PS_Eng/",
   },
    "c25": {
-    "ac1": "",
+    "assessment":"some changes needed",
+  },
+  "c26": {
+    "ac1": "https://waytosucceed.github.io/G8C26_AC1_Eng/",
     "ac2": "",
     "ac3": "",
-    "ac4": "",
-    "assessment":"some changes needed",
+    "ac4": ""
   }
   
 }
