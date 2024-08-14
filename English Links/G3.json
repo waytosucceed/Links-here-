@@ -18,10 +18,6 @@
     "ac4": ""
   },
   "c20": {
-    "ac1": "",
-    "ac2": "",
-    "ac3": "",
-    "ac4": "",
     "ASSESSMENT":"https://waytosucceed.github.io/G3C20_Assessment_Eng/",
   },
   "c21": {
@@ -30,5 +26,11 @@
     "ac3": "https://waytosucceed.github.io/G3C21_AC3_Eng/",
     "ac4": "https://waytosucceed.github.io/G3C21_AC4_Eng/"
   },
+  "c22": {
+    "ac1": "https://waytosucceed.github.io/G3C22_AC1_Eng/",
+    "ac2": "",
+    "ac3": "",
+    "ac4": ""
+  }
   
 }
