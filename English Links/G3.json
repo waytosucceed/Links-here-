@@ -39,12 +39,19 @@
   },
     "c16": {
     "PS":"https://waytosucceed.github.io/G3C16_PS_ENG/",
-  },"c17": {
+  },
+  "c17": {
     "ac1": "",
     "ac2": "",
     "ac3": "",
     "ac4": "https://waytosucceed.github.io/G3C17_AC4_ENG/",
     "PS": "https://waytosucceed.github.io/G3C17_PS_ENG/"
+  },
+   "c18": {
+    "PS":"https://waytosucceed.github.io/G3C18_PS_ENG/",
+  },
+    "c19": {
+    "PS":"https://waytosucceed.github.io/G3C19_PS_ENG/",
   },
   "c20": {
     "ASSESSMENT":"https://waytosucceed.github.io/G3C20_Assessment_Eng/",
