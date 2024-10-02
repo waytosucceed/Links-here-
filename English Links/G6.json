@@ -130,5 +130,12 @@
   },
   "c22":{
     "assessment":"https://waytosucceed.github.io/G6C22_ASSESSMENT_ENG/"
+  },
+  "c23": {
+    "ac1": "https://waytosucceed.github.io/G6C23_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G6C23_AC1_ENG/",
+    "ac3": "https://waytosucceed.github.io/G6C23_AC1_ENG/",
+    "ac4": "https://waytosucceed.github.io/G6C23_AC1_ENG/",
+    "PS": "https://waytosucceed.github.io/G6C23_PS_ENG/"
   }
 }
