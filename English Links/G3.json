@@ -155,6 +155,20 @@
     "ac3": "https://waytosucceed.github.io/G3C35_AC3_ENG/",
     "ac4": "https://waytosucceed.github.io/G3C35_AC4_ENG/",
     "PS" : "https://waytosucceed.github.io/G3C35_PS_ENG/"
+  },
+  "c36": {
+    "ac1": "",
+    "ac2": "",
+    "ac3": "",
+    "ac4": "",
+    "PS" : ""
+  },
+  "c35": {
+    "ac1": "https://waytosucceed.github.io/G3C37_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G3C37_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G3C37_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G3C37_AC4_ENG/",
+    "PS" : "https://waytosucceed.github.io/G3C37_PS_ENG/"
   }
   
 }
