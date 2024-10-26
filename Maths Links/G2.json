@@ -36,18 +36,33 @@
     "ac4": "https://waytosucceed.github.io/G2C14_AC4_MATH/",
     "ac5": "https://waytosucceed.github.io/G2C14_AC5_MATH/"
   },
+  "c15": {
+    "ac1": "https://waytosucceed.github.io/g2c15_ac1_math/",
+    "ac2": "https://waytosucceed.github.io/g2c15_ac2_math/",
+    "ac3": "https://waytosucceed.github.io/g2c15_ac3_math/",
+    "ac4": "https://waytosucceed.github.io/g2c15_ac4_math/",
+    "ac5": "https://waytosucceed.github.io/g2c15_ac5_math/"
+  },
   "c16": {
     "ac1": "",
     "ac2": "https://waytosucceed.github.io/G2C16_AC2_MATH/",
     "ac3": "https://waytosucceed.github.io/G2C16_AC3_MATH/",
     "ac4": "https://waytosucceed.github.io/G2C16_AC4_MATH/",
     "ac5": "https://waytosucceed.github.io/G2C16_AC5_MATH/"
-  },"c17": {
+  },
+  "c17": {
     "ac1": "https://waytosucceed.github.io/G2C17_AC1_MATH/",
     "ac2": "https://waytosucceed.github.io/G2C17_AC2_MATH/",
     "ac3": "https://waytosucceed.github.io/G2C17_AC3_MATH/",
     "ac4": "https://waytosucceed.github.io/G2C17_AC4_MATH/",
     "ac5": "https://waytosucceed.github.io/G2C17_AC5_MATH/"
+  },
+  "c18": {
+    "ac1": "https://waytosucceed.github.io/G2C18_AC1_MATH/",
+    "ac2": "",
+    "ac3": "https://waytosucceed.github.io/G2C18_AC3_MATH/",
+    "ac4": "",
+    "ac5": "https://waytosucceed.github.io/G2C18_AC5_MATH/"
   },
   "c24": {
     "ac1": "https://waytosucceed.github.io/G2C24_AC1_MATH/",
