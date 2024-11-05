@@ -113,12 +113,7 @@
     "ac4": "https://waytosucceed.github.io/G8C37_AC4_ENG/",
     "PS": "https://waytosucceed.github.io/G8C37_PS_ENG/",
   },
-  "c38": {
-    "ac1": "https://waytosucceed.github.io/G8C38_AC1_ENG/",
-    "ac2": "https://waytosucceed.github.io/G8C38_AC2_ENG/",
-    "ac3": "https://waytosucceed.github.io/G8C38_AC3_ENG/",
-    "ac4": "https://waytosucceed.github.io/G8C38_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G8C38_PS_ENG/",
+   "c38": { "miscellanus"
   },
   "c39": {
     "ac1": "https://waytosucceed.github.io/G8C39_AC1_ENG/",
@@ -127,15 +122,15 @@
     "ac4": "https://waytosucceed.github.io/G8C39_AC4_ENG/",
     "PS": "https://waytosucceed.github.io/G8C39_PS_ENG/",
   },
-   "c40": {
-    "assessment":"https://waytosucceed.github.io/G8C40_ASSESSMENT_ENG/",
+  "c40": {
+    "ac1": "https://waytosucceed.github.io/G8C40_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G8C40_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G8C40_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G8C40_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G8C40_PS_ENG/",
   },
-  "c41": {
-    "ac1": "https://waytosucceed.github.io/G8C41_AC1_ENG/",
-    "ac2": "https://waytosucceed.github.io/G8C41_AC2_ENG/",
-    "ac3": "https://waytosucceed.github.io/G8C41_AC3_ENG/",
-    "ac4": "https://waytosucceed.github.io/G8C41_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G8C41_PS_ENG/",
+   "c41": {
+    "assessment":"https://waytosucceed.github.io/G8C41_ASSESSMENT_ENG/",
   },
   "c42": {
     "ac1": "https://waytosucceed.github.io/G8C42_AC1_ENG/",
@@ -150,32 +145,41 @@
     "ac3": "https://waytosucceed.github.io/G8C43_AC3_ENG/",
     "ac4": "https://waytosucceed.github.io/G8C43_AC4_ENG/",
     "PS": "https://waytosucceed.github.io/G8C43_PS_ENG/",
+  },
+  "c44": {
+    "ac1": "https://waytosucceed.github.io/G8C44_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G8C44_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G8C44_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G8C44_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G8C44_PS_ENG/",
   }
 
 
 
 
   ,
-  "c47": {
-    "ac1": "https://waytosucceed.github.io/G8C47_AC1_ENG/",
-    "ac2": "https://waytosucceed.github.io/G8C47_AC2_ENG/",
-    "ac3": "https://waytosucceed.github.io/G8C47_AC3_ENG/",
-    "ac4": "https://waytosucceed.github.io/G8C47_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G8C47_PS_ENG/",
+  "c51": {
+    "ac1": "https://waytosucceed.github.io/G8C51_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G8C51_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G8C51_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G8C51_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G8C51_PS_ENG/",
   },
-  "c48": {
-    "ac1": "https://waytosucceed.github.io/G8C48_AC1_ENG/",
-    "ac2": "https://waytosucceed.github.io/G8C48_AC2_ENG/",
-    "ac3": "https://waytosucceed.github.io/G8C48_AC3_ENG/",
-    "ac4": "https://waytosucceed.github.io/G8C48_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G8C48_PS_ENG/",
+  "c52": {
+    "ac1": "https://waytosucceed.github.io/G8C52_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G8C52_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G8C52_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G8C52_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G8C52_PS_ENG/",
   },
-  "c49": {
-    "ac1": "https://waytosucceed.github.io/G8C49_AC1_ENG/",
-    "ac2": "https://waytosucceed.github.io/G8C49_AC2_ENG/",
-    "ac3": "https://waytosucceed.github.io/G8C49_AC3_ENG/",
-    "ac4": "https://waytosucceed.github.io/G8C49_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G8C49_PS_ENG/",
+   "c37": { "assessment"
+  }, 
+  "c54": {
+    "ac1": "https://waytosucceed.github.io/G8C54_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G8C54_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G8C54_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G8C54_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G8C54_PS_ENG/",
   }
   
 }
