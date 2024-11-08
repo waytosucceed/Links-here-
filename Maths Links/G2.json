@@ -214,7 +214,7 @@
   "c58": {
     "ac1": "https://waytosucceed.github.io/G2C58_AC1_MATH/",
     "ac2": "",
-    "ac3": "",
+    "ac3": "https://waytosucceed.github.io/G2C58_AC3_MATH/",
     "ac4": "",
     "ac5": "https://waytosucceed.github.io/G2C58_AC5_MATH/"
   },
@@ -224,6 +224,13 @@
     "ac3": "https://waytosucceed.github.io/G2C59_AC3_MATH/",
     "ac4": "",
     "ac5": "https://waytosucceed.github.io/G2C59_AC5_MATH/"
+  },
+  "c60": {
+    "ac1": "https://waytosucceed.github.io/G2C60_AC1_MATH/",
+    "ac2": "",
+    "ac3": "https://waytosucceed.github.io/G2C60_AC3_MATH/",
+    "ac4": "",
+    "ac5": "https://waytosucceed.github.io/G2C60_AC5_MATH/"
   },
   "ASSESSMENT": "https://waytosucceed.github.io/G2_ASSESSMENT1_MATH/"
 }
