@@ -103,7 +103,9 @@
   "PS": "https://waytosucceed.github.io/PY_C15_PS/"
 },
   "c16": {
-  "assessment": "https://waytosucceed.github.io/PY_C16_ASSESSMENT/"
+    "ac1": "https://waytosucceed.github.io/PY_C16_AC1/",
+    "ac2": "",
+  "assessment": ""
 },
   "C17": {
     "ac1": "https://waytosucceed.github.io/PY_C17_AC1/",
