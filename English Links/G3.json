@@ -264,6 +264,16 @@
     "ac3": "https://waytosucceed.github.io/G3C51_AC3_ENG/",
     "ac4": "https://waytosucceed.github.io/G3C51_AC4_ENG/",
     "PS":"https://waytosucceed.github.io/G3C51_PS_ENG/"
+  },
+  "c52": {
+    "ac1": "https://waytosucceed.github.io/G3C52_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G3C52_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G3C52_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G3C52_AC4_ENG/",
+    "PS":""
+  },
+  "c53": {
+    "ASSESSMENT":"https://waytosucceed.github.io/G3C53_ASSESSMENT/",
   }
   
 }
