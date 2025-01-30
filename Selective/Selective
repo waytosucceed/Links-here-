@@ -128,6 +128,12 @@
   },
 "c26": {
     "ASSESSMENT": "https://waytosucceed.github.io/SE_C26_ASSESSMENT/"
-  }
+  },
+"c27": {
+    "ac1": "https://waytosucceed.github.io/SE_C27_AC1/",
+    "ac2": "https://waytosucceed.github.io/SE_C27_AC2/",
+    "ac3": "https://waytosucceed.github.io/SE_C27_AC3/"
+    "ps": "https://waytosucceed.github.io/SE_C27_PS/"
+  },
 
 }
