@@ -142,5 +142,19 @@
     "ac4": "https://waytosucceed.github.io/SE_C28_AC4/",
     "ps": "https://waytosucceed.github.io/SE_C28_PS/"
   },
+"c29": {
+    "ac1": "https://waytosucceed.github.io/SE_C29_AC1/",
+    "ac2": "https://waytosucceed.github.io/SE_C29_AC2/",
+    "ac3": "https://waytosucceed.github.io/SE_C29_AC3/",
+    "ac4": "https://waytosucceed.github.io/SE_C29_AC4/",
+    "ps": "https://waytosucceed.github.io/SE_C29_PS/"
+  },
+"c30": {
+    "ac1": "https://waytosucceed.github.io/SE_C30_AC1/",
+    "ac2": "https://waytosucceed.github.io/SE_C30_AC2/",
+    "ac3": "https://waytosucceed.github.io/SE_C30_AC3/",
+    "ac4": "https://waytosucceed.github.io/SE_C30_AC4/",
+    "ps": "https://waytosucceed.github.io/SE_C30_PS/"
+  }
 
 }
