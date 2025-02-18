@@ -1,7 +1,10 @@
 {
   "c1": {
-    "ac1": "https://waytosucceed.github.io/OC_CLASS1_ENG/",
-    "ac2": ""
+    "ac1": "https://waytosucceed.github.io/OCC1_AC1_ENG/",
+    "ac2": "",
+    "ac3": "",
+    "ac4": "",
+    "PS": ""
   },
   "c2": {
     "ac1": "",
@@ -44,5 +47,6 @@
     "ac2": "",
     "ac3": "",
     "ac4": ""
-  }
+  },
+  "CLASS1": "https://waytosucceed.github.io/OC_CLASS1_ENG/"
 }
