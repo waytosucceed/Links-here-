@@ -1,21 +1,21 @@
 {
+  "c2": {
+    "CLASS": "https://waytosucceed.github.io/NPG2_C2_ENG/",
+    "PS": "https://waytosucceed.github.io/NPG2_C2_PS_ENG/"
+  },
+  "c3": {
+    "CLASS": "https://waytosucceed.github.io/NPG2_C3_ENG/",
+    "PS": "https://waytosucceed.github.io/NPG2_C3_PS_ENG/"
+  },
   "c4": {
-    "CLASS": "https://waytosucceed.github.io/NPG2_C4_ENG/",
-    "PS": "https://waytosucceed.github.io/NPG2_C4_PS_ENG/"
+    "CLASS": "",
+    "PS": ""
   },
   "c5": {
     "CLASS": "",
     "PS": ""
   },
   "c6": {
-    "CLASS": "",
-    "PS": ""
-  },
-  "c7": {
-    "CLASS": "",
-    "PS": ""
-  },
-  "c8": {
     "CLASS": "",
     "PS": ""
   }
