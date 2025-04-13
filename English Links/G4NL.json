@@ -8,11 +8,10 @@
     "PS": "https://waytosucceed.github.io/G4NLC1_PS_ENG/"
   },
   "c2": {
-    "ac1": "https://waytosucceed.github.io/G4NLC2_AC1_ENG/",
-    "ac2": "https://waytosucceed.github.io/G4NLC2_AC2_ENG/",
-    "ac3": "https://waytosucceed.github.io/G4NLC2_AC3_ENG/",
-    "ac4": "https://waytosucceed.github.io/G4NLC2_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G4NLC2_PS_ENG/"
+    "ac1": "",
+    "ac2": "",
+    "ac3": "",
+    "ac4": ""
   },
   "c3": {
     "ac1": "",
@@ -69,5 +68,21 @@
     "ac3": "https://waytosucceed.github.io/G4NLC11_AC3_ENG/",
     "ac4": "https://waytosucceed.github.io/G4NLC11_AC4_ENG/",
     "ps": "https://waytosucceed.github.io/G4NLC11_PS_ENG/"
+  },
+
+  
+  "c15": {
+    "ac1": "https://waytosucceed.github.io/G4NLC15_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G4NLC15_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G4NLC15_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G4NLC15_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G4NLC15_PS_ENG/"
+  },
+  "c16": {
+    "ac1": "https://waytosucceed.github.io/G4NLC16_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G4NLC16_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G4NLC16_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G4NLC16_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G4NLC16_PS_ENG/"
   }
 }
