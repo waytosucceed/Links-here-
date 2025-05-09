@@ -31,9 +31,10 @@
   "c5": {
     "ac1": "https://waytosucceed.github.io/SE_C5_AC1/",
     "ac2": "https://waytosucceed.github.io/SE_C5_AC2/",
-    "ac3": "",
-    "ac4": "https://waytosucceed.github.io/SE_C5/",
-    "PS": "https://waytosucceed.github.io/SE_C5_PS/"
+    "ac3": "https://waytosucceed.github.io/SE_C5_AC3/",
+    "ac4": "https://waytosucceed.github.io/SE_C5_AC4/",
+    "PS" : "https://waytosucceed.github.io/SE_C5_PS1/",
+    "PS" : "https://waytosucceed.github.io/SE_C5_PS2/"
   },
   "c6": {
     "assessment": "https://waytosucceed.github.io/SE_C6_ASSESSMENT/"
