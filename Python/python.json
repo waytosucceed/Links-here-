@@ -193,5 +193,11 @@
     "ac3": "https://waytosucceed.github.io/PY_C29_AC3/",
     "PS" : "https://waytosucceed.github.io/PY_C29_PROJECT/"
   },
+  "C30": {
+    "ac1": "https://waytosucceed.github.io/PY_C30_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_C30_AC2/",
+    "ac3": "https://waytosucceed.github.io/PY_C30_AC3/",
+    "PS" : "https://waytosucceed.github.io/PY_C30_PROJECT/"
+  },
   "shareproject": "https://waytosucceed.github.io/PY_projectshare/"
 }
