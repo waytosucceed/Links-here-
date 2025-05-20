@@ -138,5 +138,10 @@
     "ac3": "https://waytosucceed.github.io/G3NLC31_AC3_MATH/",
     "ps": "https://waytosucceed.github.io/G3NLC31_PS1_MATH/",
     "ps": "https://waytosucceed.github.io/G3NLC31_PS2_MATH/",
+  },
+  "c32": {
+    "ac1": "https://waytosucceed.github.io/G3NLC32_AC1_MATH/",
+    "ac2": "https://waytosucceed.github.io/G3NLC32_AC2_MATH/",
+    "ac3": "https://waytosucceed.github.io/G3NLC32_AC3_MATH/"
   }
 }
