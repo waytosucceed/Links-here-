@@ -143,5 +143,12 @@
     "ac4": "https://waytosucceed.github.io/G4NLC22_AC4_ENG/",
     "PS": "https://waytosucceed.github.io/G4NLC22_PS_ENG/"
   },
+     "c23": {
+    "ac1": "https://waytosucceed.github.io/G4NLC23_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G4NLC23_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G4NLC23_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G4NLC23_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G4NLC23_PS_ENG/"
+  },
   "https://waytosucceed.github.io/g4nl_inference_ac1/"
 }
