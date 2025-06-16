@@ -77,7 +77,6 @@
 "c10": {
     "ac1": "https://waytosucceed.github.io/SE_C10new_AC1/",
     "ac2": "https://waytosucceed.github.io/SE_C10new_AC2/",
-    "ac3": "https://waytosucceed.github.io/SE_C10new_AC3/",
     "ps1": "https://waytosucceed.github.io/SE_C10new_PS1/"
     "ps2": "https://waytosucceed.github.io/SE_C10new_PS2/"
   },
@@ -87,6 +86,12 @@
     "ac3": "https://waytosucceed.github.io/SE_C11_AC3/",
     "ac4": "",
     "ps": "https://waytosucceed.github.io/SE_C11_PS/"
+  },
+"c11": {
+    "ac1": "https://waytosucceed.github.io/SE_C11new_AC1/",
+    "ac2": "https://waytosucceed.github.io/SE_C11new_AC2/",
+    "ps1": "https://waytosucceed.github.io/SE_C11new_PS1/"
+    "ps2": "https://waytosucceed.github.io/SE_C11new_PS2/"
   },
 "c12": {
 
