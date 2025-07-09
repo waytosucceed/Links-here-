@@ -153,7 +153,13 @@
   },
 "C16_new":{
 "assessment": "https://waytosucceed.github.io/SE_C16_ASSESSMENT/"
-}
+},
+"c17_new": {
+    "ac1": "https://waytosucceed.github.io/SE_C17new_AC1/",
+    "ac2": "https://waytosucceed.github.io/SE_C17new_AC2/",
+    "PS1": "https://waytosucceed.github.io/SE_C17new_PS1/"
+    "PS2": "https://waytosucceed.github.io/SE_C17new_PS2/"
+  },
 "c20": {
     "ac1": "",
     "ac2": "https://waytosucceed.github.io/SE_C20_AC2/",
