@@ -248,6 +248,13 @@
   "c33": {
   "ac1": "https://waytosucceed.github.io/G6NLC33_ASSESSMENT_MATH/"
   },
+    "c34": {
+    "ac1": "https://waytosucceed.github.io/G6NLC34_AC1_MATH/",
+    "ac2": "https://waytosucceed.github.io/G6NLC34_AC2_MATH/",
+    "ac3": "https://waytosucceed.github.io/G6NLC34_AC3_MATH/",
+    "ps1": "https://waytosucceed.github.io/G6NLC34_PS1_MATH/"
+    "ps2": "https://waytosucceed.github.io/G6NLC34_PS2_MATH/"
+    },
   "Test1":"https://waytosucceed.github.io/G6_Linear_Equation_Math/",
   "Ratio": "https://waytosucceed.github.io/G6_Ratio_class/"
 }
