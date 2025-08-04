@@ -178,13 +178,11 @@
   "C27": {
     "ac1": "https://waytosucceed.github.io/PY_C27_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_C27_AC2/",
-    "ac3": "https://waytosucceed.github.io/PY_C27_AC3/",
     "PS" : "https://waytosucceed.github.io/PY_C27_PROJECT/"
   },
   "C28": {
     "ac1": "https://waytosucceed.github.io/PY_C28_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_C28_AC2/",
-    "ac3": "https://waytosucceed.github.io/PY_C28_AC3/",
     "PS" : "https://waytosucceed.github.io/PY_C28_PROJECT/"
   },
   "C29": {
@@ -217,7 +215,7 @@
     "ac3": "https://waytosucceed.github.io/PY_C33_AC3/",
     "PS" : "https://waytosucceed.github.io/PY_C33_PROJECT/"
   },
-    "C34": {
+  "C34": {
     "ac1": "https://waytosucceed.github.io/PY_C34_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_C34_AC2/",
     "ac3": "https://waytosucceed.github.io/PY_C34_AC3/",
@@ -226,22 +224,19 @@
   "C35": {
     "ac1": "https://waytosucceed.github.io/PY_C35_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_C35_AC2/",
+    "ac3": "https://waytosucceed.github.io/PY_C35_AC3/",
     "PS" : "https://waytosucceed.github.io/PY_C35_PROJECT/"
   },
-  "C36": {
+    "C36": {
     "ac1": "https://waytosucceed.github.io/PY_C36_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_C36_AC2/",
+    "ac3": "https://waytosucceed.github.io/PY_C36_AC3/",
     "PS" : "https://waytosucceed.github.io/PY_C36_PROJECT/"
   },
-    "C37": {
+  "C37": {
     "ac1": "https://waytosucceed.github.io/PY_C37_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_C37_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_C37_PROJECT/"
-  },
-      "C38": {
-    "ac1": "https://waytosucceed.github.io/PY_C38_AC1/",
-    "ac2": "https://waytosucceed.github.io/PY_C38_AC2/",
-    "PS" : "https://waytosucceed.github.io/PY_C38_PROJECT/"
   },
   "C39": {
     "ac1": "https://waytosucceed.github.io/PY_C39_AC1/",
@@ -253,10 +248,25 @@
     "ac2": "https://waytosucceed.github.io/PY_C40_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_C40_PROJECT/"
   },
-   "C41": {
+      "C41": {
     "ac1": "https://waytosucceed.github.io/PY_C41_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_C41_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_C41_PROJECT/"
+  },
+  "C42": {
+    "ac1": "https://waytosucceed.github.io/PY_C42_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_C42_AC2/",
+    "PS" : "https://waytosucceed.github.io/PY_C42_PROJECT/"
+  },
+    "C43": {
+    "ac1": "https://waytosucceed.github.io/PY_C43_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_C43_AC2/",
+    "PS" : "https://waytosucceed.github.io/PY_C43_PROJECT/"
+  },
+   "C44": {
+    "ac1": "https://waytosucceed.github.io/PY_C44_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_C44_AC2/",
+    "PS" : "https://waytosucceed.github.io/PY_C44_PROJECT/"
   },
   "shareproject": "https://waytosucceed.github.io/PY_projectshare/"
 }
