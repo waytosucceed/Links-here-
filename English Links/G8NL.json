@@ -225,20 +225,13 @@
     "ac4": "https://waytosucceed.github.io/G8NLC34_AC4_ENG/",
     "PS": "https://waytosucceed.github.io/G8NLC34_PS_ENG/"
   },
-       "c35_new": {
-    "ac1": "https://waytosucceed.github.io/G8NLC35new_AC1_ENG/",
-    "ac2": "https://waytosucceed.github.io/G8NLC35new_AC2_ENG/",
-    "ac3": "https://waytosucceed.github.io/G8NLC35new_AC3_ENG/",
-    "ac4": "https://waytosucceed.github.io/G8NLC35new_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G8NLC35new_PS1_ENG/",
-    "PS": "https://waytosucceed.github.io/G8NLC35new_PS2_ENG/"
-  },
-       "c35": {
+    "c35": {
     "ac1": "https://waytosucceed.github.io/G8NLC35_AC1_ENG/",
     "ac2": "https://waytosucceed.github.io/G8NLC35_AC2_ENG/",
     "ac3": "https://waytosucceed.github.io/G8NLC35_AC3_ENG/",
     "ac4": "https://waytosucceed.github.io/G8NLC35_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G8NLC35_PS_ENG/"
+    "PS": "https://waytosucceed.github.io/G8NLC35_PS1_ENG/",
+    "PS": "https://waytosucceed.github.io/G8NLC35_PS2_ENG/"
   },
     "c36": {
     "ac1": "https://waytosucceed.github.io/G8NLC36_AC1_ENG/",
@@ -270,5 +263,19 @@
   },
   "c40": {
     "ASSESSMENT": "https://waytosucceed.github.io/G8NLC40_ASSESSEMENT_ENG/"
+  },
+  "Tense Part 1":{
+    "ac1": "https://waytosucceed.github.io/G8NL_tense_part1_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G8NL_tense_part1_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G8NL_tense_part1_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G8NL_tense_part1_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G8NL_tense_part1_PS_ENG/"
+  },
+  "Tense Part 2":{
+    "ac1": "https://waytosucceed.github.io/G8NL_tense_part2_AC1_ENG/",
+    "ac2": "https://waytosucceed.github.io/G8NL_tense_part2_AC2_ENG/",
+    "ac3": "https://waytosucceed.github.io/G8NL_tense_part2_AC3_ENG/",
+    "ac4": "https://waytosucceed.github.io/G8NL_tense_part2_AC4_ENG/",
+    "PS": "https://waytosucceed.github.io/G8NL_tense_part2_PS_ENG/"
   }
 }
