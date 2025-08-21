@@ -273,5 +273,10 @@
     "ac2": "https://waytosucceed.github.io/PY_C44_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_C44_PROJECT/"
   },
+   "C45": {
+    "ac1": "https://waytosucceed.github.io/PY_Introduction_to_Streamlit_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_Introduction_to_Streamlit_AC2/",
+    "PS" : "https://waytosucceed.github.io/PY_Introduction_to_Streamlit_PROJECT/"
+  },
   "shareproject": "https://waytosucceed.github.io/PY_projectshare/"
 }
