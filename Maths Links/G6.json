@@ -290,6 +290,13 @@
     "ps1": "https://waytosucceed.github.io/G6NLC35_PS1_MATH/"
     "ps2": "https://waytosucceed.github.io/G6NLC35_PS2_MATH/"
     },
+    "c_GRAPH_1": {
+    "ac1": "",
+    "ac2": "https://waytosucceed.github.io/G6NL_Pictographs_And_Dot_Plots/",
+    "ac3": "https://waytosucceed.github.io/G6NL_Stem_and_Leaf_Plots/",
+    "ps1": "https://waytosucceed.github.io/G6NL_Pictographs_And_Dot_Plots_PS/"
+    "ps2": "https://waytosucceed.github.io/G6NL_Stem_and_Leaf_Plots_PS/"
+    },
   "Test1":"https://waytosucceed.github.io/G6_Linear_Equation_Math/",
   "Ratio": "https://waytosucceed.github.io/G6_Ratio_class/"
 }
