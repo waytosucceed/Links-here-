@@ -79,7 +79,7 @@
     "PS":"https://waytosucceed.github.io/G2NLC11_PS1_ENG/",
     "PS":"https://waytosucceed.github.io/G2NLC11_PS2_ENG/"
   },
-  "c12": {
+  "c12_new": {
     "ac1": "https://waytosucceed.github.io/G2NLC12_AC1_ENG/",
     "ac2": "https://waytosucceed.github.io/G2NLC12_AC2_ENG/",
     "ac3": "https://waytosucceed.github.io/G2NLC12_AC3_ENG/",
@@ -93,6 +93,14 @@
     "ac3": "https://waytosucceed.github.io/G2C12_AC3_Eng/",
     "ac4": "https://waytosucceed.github.io/G2C12_AC4_Eng/",
     "PS":"https://waytosucceed.github.io/G2C12_PS_ENG/"
+  },
+  "c13_new": {
+    "ac1": "https://waytosucceed.github.io/G2NL_long_vowel_sounds_AC1/",
+    "ac2": "https://waytosucceed.github.io/G2NL_long_vowel_sounds_AC2/",
+    "ac3": "https://waytosucceed.github.io/G2NL_long_vowel_sounds_AC3/",
+    "ac4": "https://waytosucceed.github.io/G2NL_long_vowel_sounds_AC4/",
+    "PS":"https://waytosucceed.github.io/G2NL_long_vowel_sounds_PS1/",
+    "PS":"https://waytosucceed.github.io/G2NL_long_vowel_sounds_PS2/"
   },
   "c13": {
     "ac1": "https://waytosucceed.github.io/G2C13_AC1_ENG/",
