@@ -152,6 +152,13 @@
   "C18":{
     "ASSESSMENT": "https://waytosucceed.github.io/G4NLC18_ASSESSMENT_MATH/"
   },
+  "c18_new": {
+    "ac2": "https://waytosucceed.github.io/G4NL_Rounding_Whole_Numbers_Estemating_sums_difference/",
+    "ac3": "https://waytosucceed.github.io/G4NL_Estimate_products_quotients/",
+    "ac4": "https://waytosucceed.github.io/G4NL_Rounding_and_Estimate_one_level_up/",
+    "PS1": "https://waytosucceed.github.io/G4NL_Rounding_Whole_Numbers_Estemating_sums_difference_PS/",
+    "PS2": "https://waytosucceed.github.io/G4NL_Estimate_products_quotients_PS/"
+  },
   "c19": {
     "ac1": "https://waytosucceed.github.io/G4NLC19_AC1_MATH/",
     "ac2": "https://waytosucceed.github.io/G4NLC19_AC2_MATH/",
