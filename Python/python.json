@@ -293,5 +293,10 @@
     "ac2": "https://waytosucceed.github.io/PY_Introduction_to_Streamlit_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_Introduction_to_Streamlit_PROJECT/"
   },
+   "C50": {
+    "ac1": "https://waytosucceed.github.io/PY_Health_Checker_using_Streamlit_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_Health_Checker_using_Streamlit_AC2/",
+    "PS" : "https://waytosucceed.github.io/PY_Health_Checker_using_Streamlit_PROJECT/"
+  },
   "shareproject": "https://waytosucceed.github.io/PY_projectshare/"
 }
