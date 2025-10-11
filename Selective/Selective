@@ -391,16 +391,24 @@
     "ac2": "https://waytosucceed.github.io/SE_C41_AC2/",
     "PS": "https://waytosucceed.github.io/SE_C41_PS/"
   },
-"c41_new": {
+"c42_new": {
     "ac1": "https://waytosucceed.github.io/SE_C42new_AC1/",
     "ac2": "https://waytosucceed.github.io/SE_C42new_AC2/",
-    "PS1": "https://waytosucceed.github.io/SE_C42new_PS2/"
-    "PS2": "https://waytosucceed.github.io/SE_C42new_PS1/"
+    "ac3": "https://waytosucceed.github.io/SE_C42new_AC3/",
+    "PS1": "https://waytosucceed.github.io/SE_C42new_PS2/",
+    "PS2": "https://waytosucceed.github.io/SE_C42new_PS1/",
+    "PS3": "https://waytosucceed.github.io/SE_C42new_PS3/"
   },
 "c42": {
     "ac1": "https://waytosucceed.github.io/SE_C42_AC1/",
     "ac2": "https://waytosucceed.github.io/SE_C42_AC2/",
     "PS": "https://waytosucceed.github.io/SE_C42_PS/"
+  },
+"c43_new": {
+    "ac1": "https://waytosucceed.github.io/SE_C43new_AC1/",
+    "ac2": "https://waytosucceed.github.io/SE_C43new_AC2/",
+    "PS1": "https://waytosucceed.github.io/SE_C43new_PS2/"
+    "PS2": "https://waytosucceed.github.io/SE_C43new_PS1/"
   },
 "c43": {
     "ac1": "https://waytosucceed.github.io/SE_C43_AC1/",
