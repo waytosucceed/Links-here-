@@ -144,8 +144,8 @@
     "ac2": "https://waytosucceed.github.io/G2NL_C_Q_and_K_AC2/",
     "ac3": "https://waytosucceed.github.io/G2NL_C_Q_and_K_AC3/",
     "ac4": "https://waytosucceed.github.io/G2NL_C_Q_and_K_AC4/",
-    "PS":"",
-    "PS":""
+    "PS":"https://waytosucceed.github.io/G2NL_C_Q_and_K_PS1/",
+    "PS":"https://waytosucceed.github.io/G2NL_C_Q_and_K_PS2/"
   },
   "c16": {
     "ac1": "https://waytosucceed.github.io/G2C16_AC1_ENG/",
@@ -153,6 +153,14 @@
     "ac3": "https://waytosucceed.github.io/G2C16_AC3_ENG/",
     "ac4": "https://waytosucceed.github.io/G2C16_AC4_ENG/",
     "PS":"https://waytosucceed.github.io/G2C16_PS_ENG/"
+  },
+  "c17_new": {
+    "ac1": "https://waytosucceed.github.io/G2NL_Dipthongs_io_oy_AC1/",
+    "ac2": "https://waytosucceed.github.io/G2NL_Dipthongs_io_oy_AC2/",
+    "ac3": "https://waytosucceed.github.io/G2NL_Dipthongs_io_oy_AC3/",
+    "ac4": "https://waytosucceed.github.io/G2NL_Dipthongs_io_oy_AC4/",
+    "PS":"https://waytosucceed.github.io/G2NL_Dipthongs_io_oy_PS1/",
+    "PS":"https://waytosucceed.github.io/G2NL_Dipthongs_io_oy_PS2/"
   },
   "c17": {
     "ac1": "https://waytosucceed.github.io/G2C17_AC1_ENG/",
