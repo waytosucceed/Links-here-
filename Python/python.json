@@ -308,5 +308,10 @@
     "ac2": "https://waytosucceed.github.io/PY_Introduction_to_APIs_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_Introduction_to_APIs_PROJECT/"
   },
+   "C53": {
+    "ac1": "https://waytosucceed.github.io/PY_Voice_Controlled_Calculator_I_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_Voice_Controlled_Calculator_I_AC2/",
+    "PS" : "https://waytosucceed.github.io/PY_Voice_Controlled_Calculator_I_PROJECT/"
+  },
   "shareproject": "https://waytosucceed.github.io/PY_projectshare/"
 }
