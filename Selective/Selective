@@ -450,11 +450,20 @@
     "ac3": "https://waytosucceed.github.io/SE_C46_AC3/",
     "PS": "https://waytosucceed.github.io/SE_C46_PS/"
   },
+"c47_new": {
+    "ac1": "https://waytosucceed.github.io/SE_C47new_AC1/",
+    "ac2": "https://waytosucceed.github.io/SE_C47new_AC2/",
+    "PS1": "https://waytosucceed.github.io/SE_C47new_PS1/"
+    "PS2": "https://waytosucceed.github.io/SE_C47new_PS2/"
+  },
 "c47": {
     "ac1": "https://waytosucceed.github.io/SE_C47_AC1/",
     "ac2": "https://waytosucceed.github.io/SE_C47_AC2/",
     "ac3": "https://waytosucceed.github.io/SE_C47_AC3/",
     "PS": "https://waytosucceed.github.io/SE_C47_PS/"
+  },
+"c48_new": {
+    "ac1": "https://waytosucceed.github.io/SE_C48_ASSESSMENT/"
   },
 "c48": {
     "ac1": "https://waytosucceed.github.io/SE_C48_AC1/",
