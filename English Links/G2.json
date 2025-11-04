@@ -189,8 +189,8 @@
     "ac2": "https://waytosucceed.github.io/G2NL_Diphthongs_ai_and_ay_AC2/",
     "ac3": "https://waytosucceed.github.io/G2NL_Diphthongs_ai_and_ay_AC3/",
     "ac4": "https://waytosucceed.github.io/G2NL_Diphthongs_ai_and_ay_AC4/",
-    "PS":"",
-    "PS":""
+    "PS":"https://waytosucceed.github.io/G2NL_Diphthongs_ai_and_ay_PS1/",
+    "PS":"https://waytosucceed.github.io/G2NL_Diphthongs_ai_and_ay_PS2/"
   },
   "c19": {
     "ac1": "https://waytosucceed.github.io/G2C19_AC1_ENG/",
@@ -200,7 +200,8 @@
     "PS":"https://waytosucceed.github.io/G2C19_PS_ENG/"
   },
   "c20": {
-    "assessment": "https://waytosucceed.github.io/G2C20_ASSESSMENT_ENG/"
+    "assessment": "https://waytosucceed.github.io/G2NLC20_Assessment_ENG/",
+    "writing": "https://waytosucceed.github.io/G2NLC20_Writing_ENG/"
   },
   "c21": {
     "ac1": "https://waytosucceed.github.io/G2C21_AC1_ENG/",
