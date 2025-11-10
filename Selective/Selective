@@ -424,11 +424,11 @@
     "PS1": "https://waytosucceed.github.io/SE_C44_PS1/",
     "PS2": "https://waytosucceed.github.io/SE_C44_PS2/"
   },
-"c45_new": { EMPTY
-    "ac1": "https://waytosucceed.github.io/SE_C45new_AC1/",
-    "ac2": "https://waytosucceed.github.io/SE_C45new_AC2/",
-    "PS1": "https://waytosucceed.github.io/SE_C45new_PS1/"
-    "PS2": "https://waytosucceed.github.io/SE_C45new_PS2/"
+"c45_new": { 
+    "ac1": "https://waytosucceed.github.io/SE6_Surface_Area_Of_Solids/",
+    "ac2": "https://waytosucceed.github.io/SE6_Real_World_Analysis_Of_Surface_Area/",
+    "PS1": "https://waytosucceed.github.io/SE6_Surface_Area_Of_Solids_PS/"
+    "PS2": "https://waytosucceed.github.io/SE6_Real_World_Analysis_Of_Surface_Area_PS/"
   },
 "c45": {
     "ac1": "https://waytosucceed.github.io/SE_C45_AC1/",
@@ -436,11 +436,11 @@
     "ac3": "https://waytosucceed.github.io/SE_C45_AC3/",
     "PS": "https://waytosucceed.github.io/SE_C45_PS/"
   },
-"c46_new": { OLD
-    "ac1": "https://waytosucceed.github.io/SE_C46new_AC1/",
-    "ac2": "https://waytosucceed.github.io/SE_C46new_AC2/",
-    "PS1": "https://waytosucceed.github.io/SE_C46new_PS1/"
-    "PS2": "https://waytosucceed.github.io/SE_C46new_PS2/"
+"c46_new": { 
+    "ac1": "https://waytosucceed.github.io/SE6_Volume/",
+    "ac2": "https://waytosucceed.github.io/SE6_Word_Problems_On_Surface_Area_And_Volume/",
+    "PS1": "https://waytosucceed.github.io/SE6_Volume_PS/"
+    "PS2": "https://waytosucceed.github.io/SE6_Word_Problems_On_Surface_Area_And_Volume_PS/"
   },
 "c46": {
     "ac1": "https://waytosucceed.github.io/SE_C46_AC1/",
