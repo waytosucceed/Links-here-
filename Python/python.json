@@ -155,18 +155,17 @@
     "ac4": "https://waytosucceed.github.io/PY_C22_AC4/",
     "PS" : "https://waytosucceed.github.io/PY_C22_PS/"
   },
-  "C23_new": {
+  "C23": {
     "ac1": "https://waytosucceed.github.io/PY_Inheritance-II_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_Inheritance-II_AC2/",
     "ac3": "https://waytosucceed.github.io/PY_Inheritance-II_AC3/",
     "PS" : "https://waytosucceed.github.io/PY_Inheritance-II_PROJECT/"
   },
-  "C23": {
-    "ac1": "https://waytosucceed.github.io/PY_C23_AC1/",
-    "ac2": "https://waytosucceed.github.io/PY_C23_AC2/",
-    "ac3": "https://waytosucceed.github.io/PY_C23_AC3/",
-    "ac4": "https://waytosucceed.github.io/PY_C23_AC4/",
-    "PS" : "https://waytosucceed.github.io/PY_C23_PS/"
+  "C24_new": {
+    "ac1": "https://waytosucceed.github.io/PY_Encapsulation_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_Encapsulation_AC2/",
+    "ac3": "https://waytosucceed.github.io/PY_Encapsulation_AC3/",
+    "PS" : "https://waytosucceed.github.io/PY_Encapsulation_PROJECT/"
   },
   "C24": {
     "ac1": "https://waytosucceed.github.io/PY_C24_AC1/",
