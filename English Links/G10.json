@@ -22,5 +22,13 @@
     "ac4": "https://waytosucceed.github.io/G10NL_Identifying_and_Correcting_Errors_Parts_of_Speech_Part2_AC4/",
     "ps": "https://waytosucceed.github.io/G10NL_Identifying_and_Correcting_Errors_Parts_of_Speech_Part2_PS1/",
     "ps": "https://waytosucceed.github.io/G10NL_Identifying_and_Correcting_Errors_Parts_of_Speech_Part2_PS2/",
+  },
+  "c4": {
+    "ac1": "https://waytosucceed.github.io/G10NL_Sentence_Structure_AC1/",
+    "ac2": "https://waytosucceed.github.io/G10NL_Sentence_Structure_AC2/",
+    "ac3": "https://waytosucceed.github.io/G10NL_Sentence_Structure_AC3/",
+    "ac4": "https://waytosucceed.github.io/G10NL_Sentence_Structure_AC4/",
+    "ps": "https://waytosucceed.github.io/G10NL_Sentence_Structure_PS1/",
+    "ps": "https://waytosucceed.github.io/G10NL_Sentence_Structure_PS2/",
   }
 }
