@@ -519,6 +519,12 @@
     "ac1": "https://waytosucceed.github.io/SE_C53_AC1/",
     "PS": "https://waytosucceed.github.io/SE_C53_PS/"
   },
+"c54_new": {
+    "ac1": "https://waytosucceed.github.io/SE6_Arithmetic_Reasoning/",
+    "ac2": "https://waytosucceed.github.io/SE6_Cubes_Reasoning/",
+    "PS1": "https://waytosucceed.github.io/SE6_Arithmetic_Reasoning_PS/"
+    "PS2": "https://waytosucceed.github.io/SE6_Cubes_Reasoning_PS/"
+  },
 "c54": {
     "ASSESSMENT": "https://waytosucceed.github.io/SE_C54_ASSESSMENT/"
   },
