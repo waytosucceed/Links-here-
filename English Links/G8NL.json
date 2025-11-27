@@ -261,19 +261,11 @@
     "ac4": "https://waytosucceed.github.io/G8NLC34_AC4_ENG/",
     "PS": "https://waytosucceed.github.io/G8NLC34_PS_ENG/"
   },
-  "c35_new": {
+  "c35": {
     "ac1": "https://waytosucceed.github.io/G8NL_Artical_Writing_AC1/",
     "ac2": "https://waytosucceed.github.io/G8NL_Artical_Writing_AC2/",
     "ac3": "https://waytosucceed.github.io/G8NL_Artical_Writing_AC3/",
     "PS": "https://waytosucceed.github.io/G8NL_Artical_Writing_PS/"
-  },
-    "c35": {
-    "ac1": "https://waytosucceed.github.io/G8NLC35_AC1_ENG/",
-    "ac2": "https://waytosucceed.github.io/G8NLC35_AC2_ENG/",
-    "ac3": "https://waytosucceed.github.io/G8NLC35_AC3_ENG/",
-    "ac4": "https://waytosucceed.github.io/G8NLC35_AC4_ENG/",
-    "PS": "https://waytosucceed.github.io/G8NLC35_PS1_ENG/",
-    "PS": "https://waytosucceed.github.io/G8NLC35_PS2_ENG/"
   },
     "c36": {
     "ac1": "https://waytosucceed.github.io/G8NLC36_AC1_ENG/",
@@ -365,6 +357,14 @@
     "ac4": "https://waytosucceed.github.io/G8NL_Direct_and_Indirect_Speech_AC4/",
     "PS": "https://waytosucceed.github.io/G8NL_Direct_and_Indirect_Speech_PS1/",
     "PS": "https://waytosucceed.github.io/G8NL_Direct_and_Indirect_Speech_PS2/"
+  },
+    "c53": {
+    "ac1": "https://waytosucceed.github.io/G8NL_Modifiers_AC1/",
+    "ac2": "https://waytosucceed.github.io/G8NL_Modifiers_AC2/",
+    "ac3": "https://waytosucceed.github.io/G8NL_Modifiers_AC3/",
+    "ac4": "https://waytosucceed.github.io/G8NL_Modifiers_AC4/",
+    "PS": "https://waytosucceed.github.io/G8NL_Modifiers_PS1/",
+    "PS": "https://waytosucceed.github.io/G8NL_Modifiers_PS2/"
   },
   "c54": {
     "ac1": "https://waytosucceed.github.io/G8NL_Proper_Punctuation_Part1_AC1/",
