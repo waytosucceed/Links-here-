@@ -167,16 +167,15 @@
     "ac3": "https://waytosucceed.github.io/PY_Encapsulation_AC3/",
     "PS" : "https://waytosucceed.github.io/PY_Encapsulation_PROJECT/"
   },
-  "C25_new": {
+  "C25": {
     "ac1": "https://waytosucceed.github.io/PY_Modules_and_Packages_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_Modules_and_Packages_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_Modules_and_Packages_PROJECT/"
   },
-  "C25": {
-    "ac1": "https://waytosucceed.github.io/PY_C25_AC1/",
-    "ac2": "https://waytosucceed.github.io/PY_C25_AC2/",
-    "ac3": "https://waytosucceed.github.io/PY_C25_AC3/",
-    "PS" : "https://waytosucceed.github.io/PY_C25_PROJECT/"
+  "C26_new": {
+    "ac1": "https://waytosucceed.github.io/PY_Built_in_Modules_of_Python_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_Built_in_Modules_of_Python_AC2/",
+    "PS" : "https://waytosucceed.github.io/PY_Built_in_Modules_of_Python_PROJECT/"
   },
   "C26": {
     "ac1": "https://waytosucceed.github.io/PY_C26_AC1/",
