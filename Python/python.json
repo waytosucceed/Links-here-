@@ -165,21 +165,15 @@
     "ac2": "https://waytosucceed.github.io/PY_Modules_and_Packages_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_Modules_and_Packages_PROJECT/"
   },
-  "C26_new": {
+  "C26": {
     "ac1": "https://waytosucceed.github.io/PY_Built_in_Modules_of_Python_AC1/",
     "ac2": "https://waytosucceed.github.io/PY_Built_in_Modules_of_Python_AC2/",
     "PS" : "https://waytosucceed.github.io/PY_Built_in_Modules_of_Python_PROJECT/"
   },
-  "C26": {
-    "ac1": "https://waytosucceed.github.io/PY_C26_AC1/",
-    "ac2": "https://waytosucceed.github.io/PY_C26_AC2/",
-    "ac3": "https://waytosucceed.github.io/PY_C26_AC3/",
-    "PS" : "https://waytosucceed.github.io/PY_C26_PROJECT/"
-  },
   "C27": {
-    "ac1": "https://waytosucceed.github.io/PY_C27_AC1/", //empty
-    "ac2": "https://waytosucceed.github.io/PY_C27_AC2/",
-    "PS" : "https://waytosucceed.github.io/PY_C27_PROJECT/"
+    "ac1": "https://waytosucceed.github.io/PY_Typing_Speed_Test_Application_AC1/",
+    "ac2": "https://waytosucceed.github.io/PY_Typing_Speed_Test_Application_AC2/",
+    "PS" : "https://waytosucceed.github.io/PY_Typing_Speed_Test_Application_PROJECT/"
   },
     "C28": {
     "ac1": "https://waytosucceed.github.io/PY_Abstraction_AC1/",
