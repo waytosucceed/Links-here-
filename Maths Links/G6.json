@@ -58,15 +58,14 @@
     "ps": "https://waytosucceed.github.io/G6C7_PS1_MATH/",
     "ps": "https://waytosucceed.github.io/G6C7_PS2_MATH/"
   },
-  "c8": {
-     "ac1": "https://waytosucceed.github.io/G6C8_AC1_MATH/",
-    "ac2": "https://waytosucceed.github.io/G6C8_AC2_MATH/",
-    "ac3": "https://waytosucceed.github.io/G6C8_AC3_MATH/",
-    "ac4": "https://waytosucceed.github.io/G6C8_AC4_MATH/",
-    "ac5": "https://waytosucceed.github.io/G6C8_AC5_MATH/",
-    "ps": "https://waytosucceed.github.io/G6C8_PS_MATH/"
-  },
   "c8_new": {
+    "ac1": "https://waytosucceed.github.io/G6NL_Long_Division_Method_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G6NL_Division_Of_Decimals_By_Whole_Numbers/",
+    "ac3": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Division/",
+    "PS": "https://waytosucceed.github.io/G6NL_Division_Of_Decimals_By_Whole_Numbers_PS/",
+    "PS": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Division_PS/"
+  },
+  "c8": {
      "ac1": "https://waytosucceed.github.io/G6C8new_AC1_MATH/",
     "ac2": "https://waytosucceed.github.io/G6C8new_AC2_MATH/",
     "ac3": "https://waytosucceed.github.io/G6C8new_AC3_MATH/",
