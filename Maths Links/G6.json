@@ -74,15 +74,14 @@
     "ps": "https://waytosucceed.github.io/G6C8new_PS_MATH/",
     "ps": "https://waytosucceed.github.io/G6C8new_PS1_MATH/"
   },
-  "c9": {
-     "ac1": "https://waytosucceed.github.io/G6C9_AC1_MATH/",
-    "ac2": "https://waytosucceed.github.io/G6C9_AC2_MATH/",
-    "ac3": "https://waytosucceed.github.io/G6C9_AC3_MATH/",
-    "ac4": "https://waytosucceed.github.io/G6C9_AC4_MATH/",
-    "ac5": "https://waytosucceed.github.io/G6C9_AC5_MATH/",
-    "ps": "https://waytosucceed.github.io/G6C9_PS_MATH/"
-  },
   "c9_new": {
+     "ac1": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Division_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G6NL_Rounding_Off_And_Estimate_Sum_and_Difference/",
+    "ac3": "https://waytosucceed.github.io/G6NL_Estimate_Products_And_Quotient/",
+    "ps1": "https://waytosucceed.github.io/G6NL_Rounding_Off_And_Estimate_Sum_and_Difference_PS/",
+    "ps2": "https://waytosucceed.github.io/G6NL_Estimate_Products_And_Quotient_PS/"
+  },
+  "c9": {
      "ac1": "https://waytosucceed.github.io/G6C9new_AC1_MATH/",
     "ac2": "https://waytosucceed.github.io/G6C9new_AC2_MATH/",
     "ac3": "https://waytosucceed.github.io/G6C9new_AC3_MATH/",
