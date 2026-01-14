@@ -1,8 +1,14 @@
 {
-  "c1": {
+  "c3": {
     "ac1": "https://waytosucceed.github.io/GSG4TH_Decoding_And_Inferring_Passage_AC1/",
     "ac2": "https://waytosucceed.github.io/GSG4TH_Decoding_And_Inferring_Passage_AC2/",
     "ac3": "https://waytosucceed.github.io/GSG4TH_Decoding_And_Inferring_Passage_AC3/"
     "PS": "https://waytosucceed.github.io/GSG4TH_Decoding_And_Inferring_Passage_PS/"
+  },
+  "c4": {
+    "ac1": "https://waytosucceed.github.io/GSG4TH_Statements_Supporting_The_Claim_AC1/",
+    "ac2": "https://waytosucceed.github.io/GSG4TH_Statements_Supporting_The_Claim_AC1/",
+    "ac3": "https://waytosucceed.github.io/GSG4TH_Statements_Supporting_The_Claim_AC1/"
+    "PS": "https://waytosucceed.github.io/GSG4TH_Statements_Supporting_The_Claim_AC1/"
   }
 }
