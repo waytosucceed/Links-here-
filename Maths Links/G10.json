@@ -1,5 +1,5 @@
 {
-  "c2": {
+  "c1": {
     "ac1": "https://waytosucceed.github.io/G10_Addition_And_Subtraction_Of_Integers_AC1/",
     "ac2": "https://waytosucceed.github.io/G10_Addition_And_Subtraction_Of_Integers_AC2/",
     "ac3": "https://waytosucceed.github.io/G10_Multiplication_And_Division_Of_Integers_AC1/",
@@ -9,5 +9,11 @@
     "ps": "https://waytosucceed.github.io/G10__Addition_And_Subtraction_Of_Integers_PS/",
     "ps": "https://waytosucceed.github.io/G10_Multiplication_And_Division_Of_Integers_PS/",
     "ps": "https://waytosucceed.github.io/G10_BODMAS_With_Integers_PS/"
+  },
+  "c2": {
+    "ac1": "https://waytosucceed.github.io/G10_Index_Notation_AC1/",
+    "ac2": "https://waytosucceed.github.io/G10_Index_Notation_AC2/",
+    "ps": "https://waytosucceed.github.io/G10_Index_Notation_PS1/",
+    "ps": "https://waytosucceed.github.io/G10_Index_Notation_PS2/"
   }
 }
