@@ -22,5 +22,11 @@
     "ac2": "https://waytosucceed.github.io/GSG4TH_Statement_and_Conclusion_AC2/",
     "ac3": "https://waytosucceed.github.io/GSG4TH_Statement_and_Conclusion_AC3/"
     "PS": "https://waytosucceed.github.io/GSG4TH_Statement_and_Conclusion_PS/"
-  }
+  },
+    "c7": {
+    "ac1": "https://waytosucceed.github.io/GSG4TH_Errors_In_Reasoning_AC1/",
+    "ac2": "https://waytosucceed.github.io/GSG4TH_Errors_In_Reasoning_AC2/",
+    "ac3": "https://waytosucceed.github.io/GSG4TH_Errors_In_Reasoning_AC3/"
+    "PS": "https://waytosucceed.github.io/GSG4TH_Errors_In_Reasoning_PS/"
+  },
 }
