@@ -14,5 +14,11 @@
 "C5":{
     "Assessment": "https://waytosucceed.github.io/SE6RTSM1_Assessment/",
     "Homework": "https://waytosucceed.github.io/SE6RTSM1_Homework/"
+  },
+"C8":{
+    "AC1": "https://waytosucceed.github.io/SE6_Identifying_Mistakes_and_Assumptions_AC1/",
+    "AC2": "https://waytosucceed.github.io/SE6_Identifying_Mistakes_and_Assumptions_AC2/",
+    "PS1": "https://waytosucceed.github.io/SE6_Identifying_Mistakes_and_Assumptions_PS1/",
+    "PS2": "https://waytosucceed.github.io/SE6_Identifying_Mistakes_and_Assumptions_PS2/"
   }
 }
