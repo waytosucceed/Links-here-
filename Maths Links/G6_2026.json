@@ -21,49 +21,49 @@
     "ps": "https://waytosucceed.github.io/G6NL_Subtraction_PS/",
     "ps": "https://waytosucceed.github.io/G6NL_Balancing_Equations_PS/"
   },
-  "c4": {
+  "c5": {
     "ac1": "https://waytosucceed.github.io/G6NL_Subtraction_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6NL_Multiplication/",
     "ac3": "https://waytosucceed.github.io/G6NL_Multiplying_Decimals_By_Whole_Numbers/",
     "PS": "https://waytosucceed.github.io/G6NL_Multiplication_PS/",
     "ps": "https://waytosucceed.github.io/G6NL_Multiplying_Decimals_By_Whole_Numbers_PS/"
   },
-  "c5": {
+  "c6": {
     "ac1": "https://waytosucceed.github.io/G6NL_Multiplication_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6NL_Multiplication_Using_Area_Models/",
     "ac3": "https://waytosucceed.github.io/G6NL_Properties_of_Multiplication/",
     "PS": "https://waytosucceed.github.io/G6NL_Multiplication_Using_Area_Models_PS/",
     "PS": "https://waytosucceed.github.io/G6NL_Properties_of_Multiplication_PS/"
   },
-  "c6": {
+  "c7": {
     "ac1": "https://waytosucceed.github.io/G6NL_Properties_of_Multiplication_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6NL_Lattice_Multiplication/",
     "ac3": "https://waytosucceed.github.io/G6NL_Multiplication_Word_Problems/",
     "PS": "https://waytosucceed.github.io/G6NL_Lattice_Multiplication_PS/",
     "PS": "https://waytosucceed.github.io/G6NL_Multiplication_Word_Problems_PS/"
   },
-  "c7": {
+  "c8": {
     "ac1": "https://waytosucceed.github.io/G6NL_Lattice_Multiplication_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6NL_Long_Division_Method_and_Division_Without_Remainder/",
     "ac3": "https://waytosucceed.github.io/G6NL_Division_With_Remainder_and_Euclid_Division_Formula/",
     "PS": "https://waytosucceed.github.io/G6NL_Long_Division_Method_and_Division_Without_Remainder_PS/",
     "PS": "https://waytosucceed.github.io/G6NL_Division_With_Remainder_and_Euclid_Division_Formula_PS/"
   },
-  "c8": {
+  "c9": {
     "ac1": "https://waytosucceed.github.io/G6NL_Long_Division_Method_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6NL_Division_Of_Decimals_By_Whole_Numbers/",
     "ac3": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Division/",
     "PS": "https://waytosucceed.github.io/G6NL_Division_Of_Decimals_By_Whole_Numbers_PS/",
     "PS": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Division_PS/"
   },
-  "c9": {
+  "c10": {
      "ac1": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Division_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6NL_Rounding_Off_And_Estimate_Sum_and_Difference/",
     "ac3": "https://waytosucceed.github.io/G6NL_Estimate_Products_And_Quotient/",
     "ps1": "https://waytosucceed.github.io/G6NL_Rounding_Off_And_Estimate_Sum_and_Difference_PS/",
     "ps2": "https://waytosucceed.github.io/G6NL_Estimate_Products_And_Quotient_PS/"
   },
-  "c10": {
+  "c10_OLD": {
      "ac1": "https://waytosucceed.github.io/G6NL_Rounding_Off_And_Estimate_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6NL_Number_Series/",
     "ps1": "https://waytosucceed.github.io/G6NL_Number_Series_PS/"
@@ -72,68 +72,61 @@
     "assessment": "https://waytosucceed.github.io/G6M1_Math_Assessment/",
     "Homework": "https://waytosucceed.github.io/G6M1_Math_Homework/"
   },
-  "c12": {
+  "c13": {
     "ac1": "https://waytosucceed.github.io/G6_Number_Series_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_Money/",
     "ac3": "https://waytosucceed.github.io/G6_Equivalent_Rates_and_Unit_Rates/",
     "ps1": "https://waytosucceed.github.io/G6_Money_PS/",
     "ps2": "https://waytosucceed.github.io/G6_Equivalent_Rates_and_Unit_Rates_PS/"
   },
-  "c13": {
+  "c14": {
     "ac1": "https://waytosucceed.github.io/G6_Money_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_Exponents/",
     "ac3": "https://waytosucceed.github.io/G6_Order_Of_Operations/",
     "ps1": "https://waytosucceed.github.io/G6_Exponents_PS/",
     "ps2": "https://waytosucceed.github.io/G6_Order_Of_Operations_PS/"
   },
-  "c14": {
+  "c15": {
     "ac1": "https://waytosucceed.github.io/G6_Exponents_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_Line_And_Angles_AC1/",
     "ac3": "https://waytosucceed.github.io/G6_Line_And_Angles_AC2/",
     "ps1": "https://waytosucceed.github.io/G6_Line_And_Angles_PS1/",
     "ps2": "https://waytosucceed.github.io/G6_Line_And_Angles_PS2/"
   },
-  "c15": {
+  "c16": {
     "ac1": "https://waytosucceed.github.io/G6_Line_And_Angles_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_Angles_AC1/",
     "ac3": "https://waytosucceed.github.io/G6_Angles_AC2/",
     "ps1": "https://waytosucceed.github.io/G6_Angles_PS1/",
     "ps2": "https://waytosucceed.github.io/G6_Angles_PS2/"
   },
-  "c16": {
+  "c17": {
     "ac1": "https://waytosucceed.github.io/G6_Angles_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_2D_Shapes_And_Their_Properties_AC1/",
     "ac3": "https://waytosucceed.github.io/G6_2D_Shapes_And_Their_Properties_AC2/",
     "ps1": "https://waytosucceed.github.io/G6_2D_Shapes_And_Their_Properties_PS1/",
     "ps2": "https://waytosucceed.github.io/G6_2D_Shapes_And_Their_Properties_PS2/"
   },
-  "c17": {
+  "c18": {
     "ac1": "https://waytosucceed.github.io/G6_2D_Shapes_And_Their_Properties_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_Divisibility_Test_of_2_3_and_4/",
     "ac3": "https://waytosucceed.github.io/G6_Divisibility_Test_of_5_6_and_10/",
     "ps1": "https://waytosucceed.github.io/G6_Divisibility_Test_of_2_3_and_4_PS/",
     "ps2": "https://waytosucceed.github.io/G6_Divisibility_Test_of_5_6_and_10_PS/"
   },
-  "c18": {
+  "c19: {
     "ac1": "https://waytosucceed.github.io/G6_Divisibility_Test_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_Divisibility_Test_of_7_8_9_and_11/",
     "ac3": "https://waytosucceed.github.io/G6_Odd_Even_Prime_and_Composite_Numbers/",
     "ps1": "https://waytosucceed.github.io/G6_Divisibility_Test_of_7_8_9_and_11_PS/",
     "ps2": "https://waytosucceed.github.io/G6_Odd_Even_Prime_and_Composite_Numbers_PS/"
   },
-  "c19": {
+  "c20": {
     "ac1": "https://waytosucceed.github.io/G6_Odd_Even_Prime_and_Composite_Numbers_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_Factors_And_Multiples_and_Prime_Factorization/",
     "ac3": "https://waytosucceed.github.io/G6_Finding_HCF_or_GCF/",
     "ps1": "https://waytosucceed.github.io/G6_Factors_And_Multiples_and_Prime_Factorization_PS/",
     "ps2": "https://waytosucceed.github.io/G6_Finding_HCF_or_GCF_PS/"
-  },
-  "c20": {
-    "ac1": "https://waytosucceed.github.io/G6_Factors_And_Multiples_and_Prime_Factorization_Previous_Questions/",
-    "ac2": "https://waytosucceed.github.io/G6_HCF_by_Ladder_Method/",
-    "ac3": "https://waytosucceed.github.io/G6_HCF_Applications/",
-    "ps1": "https://waytosucceed.github.io/G6_HCF_by_Ladder_Method_PS/",
-    "ps2": "https://waytosucceed.github.io/G6_HCF_Applications_PS/"
   },
   "c21": {
     "ac1": "https://waytosucceed.github.io/G6C21_Revision_AC1/",
@@ -144,6 +137,13 @@
   "c22":{
     "assessment": "https://waytosucceed.github.io/G6M2_Math_Assessment/",
     "Homework": "https://waytosucceed.github.io/G6M2_Math_Homework/"
+  },
+  "c23": {
+    "ac1": "https://waytosucceed.github.io/G6_Factors_And_Multiples_and_Prime_Factorization_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G6_HCF_by_Ladder_Method/",
+    "ac3": "https://waytosucceed.github.io/G6_HCF_Applications/",
+    "ps1": "https://waytosucceed.github.io/G6_HCF_by_Ladder_Method_PS/",
+    "ps2": "https://waytosucceed.github.io/G6_HCF_Applications_PS/"
   },
   "c24": {
     "ac1": "https://waytosucceed.github.io/G6_HCF_by_Ladder_Method_Previous_Questions/",
