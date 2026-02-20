@@ -20,13 +20,12 @@
     "ps": "https://waytosucceed.github.io/G6NL_Subtraction_PS/",
     "ps": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Subtraction_PS/"
   },
-  "c4_OLD": {
-    "ac1": "https://waytosucceed.github.io/G6NL_Addition_Previous_Questions/",
-    "ac2": "https://waytosucceed.github.io/G6NL_Subtraction/",
-    "ac3": "https://waytosucceed.github.io/G6NL_Balancing_Equations/",
-    "ac4": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Subtraction/",
-    "ps": "https://waytosucceed.github.io/G6NL_Subtraction_PS/",
-    "ps": "https://waytosucceed.github.io/G6NL_Balancing_Equations_PS/"
+  "c4": {
+    "ac1": "https://waytosucceed.github.io/G6NL_Subtraction_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G6NL_Balancing_Equations/",
+    "ac3": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Addition_and_Subtraction/",
+    "ps": "https://waytosucceed.github.io/G6NL_Balancing_Equations_PS/",
+    "ps": "https://waytosucceed.github.io/G6NL_Word_Problems_On_Addition_and_Subtraction_PS/"
   },
   "c5": {
     "ac1": "https://waytosucceed.github.io/G6NL_Subtraction_Previous_Questions/",
