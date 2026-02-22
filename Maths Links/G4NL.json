@@ -54,13 +54,13 @@
     "PS1": "https://waytosucceed.github.io/G4_Addition_Subtraction_Word_Problems_Input_Output_Tables_PS1/",
     "PS2": "https://waytosucceed.github.io/G4_Addition_Subtraction_Word_Problems_Input_Output_Tables_PS2/"
   },
-  "c7_OLD": {
-    "ac1": "https://waytosucceed.github.io/G4NL_Subtraction_Word_Problems_Previous_Questions/",
-    "ac2": "https://waytosucceed.github.io/G4NL_Addition_and_Subtraction_Word_Problems/",
-    "ac3": "https://waytosucceed.github.io/G4NL_Real_Word_Problems_Addition_and_Subtraction/",
-    "ac4": "https://waytosucceed.github.io/G4NL_Addition_and_Subtraction_Word_Problems_One_Level_Up/"
-    "PS1": "https://waytosucceed.github.io/G4NL_Addition_and_Subtraction_Word_Problems_PS/",
-    "PS2": "https://waytosucceed.github.io/G4NL_Real_Word_Problems_Addition_and_Subtraction_PS/"
+  "c7": {
+    "ac1": "https://waytosucceed.github.io/G4_Addition_Subtraction_Word_Problems_Input_Output_Tables_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G4_Multiplication_AC1/",
+    "ac3": "https://waytosucceed.github.io/G4_Multiplication_AC2/",
+    "ac4": "https://waytosucceed.github.io/G4_Multiplication_AC3/"
+    "PS1": "",
+    "PS2": ""
   },
   "c26": {
     "ac1": ""
