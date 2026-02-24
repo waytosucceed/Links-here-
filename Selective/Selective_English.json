@@ -144,5 +144,13 @@
   "c20":{
     "ac1": "https://waytosucceed.github.io/SE6_ENG_M2_Assessment/",
     "ac2": "https://waytosucceed.github.io/SE6_ENG_M2_Homework/"
+  },
+  "c21":{
+    "ac1": "https://waytosucceed.github.io/SE6_Cohesion_and_Transitions_AC1/",
+    "ac2": "https://waytosucceed.github.io/SE6_Cohesion_and_Transitions_AC2/",
+    "ac3": "https://waytosucceed.github.io/SE6_Cohesion_and_Transitions_AC3/",
+    "ac4": "https://waytosucceed.github.io/SE6_Cohesion_and_Transitions_AC4/",
+    "PS": "https://waytosucceed.github.io/SE6_Cohesion_and_Transitions_PS1/",
+    "PS": "https://waytosucceed.github.io/SE6_Cohesion_and_Transitions_PS2/"
   }
 }
