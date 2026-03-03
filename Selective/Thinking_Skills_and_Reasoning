@@ -30,5 +30,9 @@
 "C10":{
     "Assessment": "https://waytosucceed.github.io/SE6RTSM2_Assessment/",
     "Homework": "https://waytosucceed.github.io/SE6RTSM2_Homework/"
+  },
+"Mock_Test":{
+    "Test1": "https://waytosucceed.github.io/SE6TH_Mock_Test_1/",
+    "Test2": "https://waytosucceed.github.io/SE6TH_Mock_Test_2/"
   }
 }
