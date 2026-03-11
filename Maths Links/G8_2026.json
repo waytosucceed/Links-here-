@@ -19,6 +19,7 @@
     "ac4": "https://waytosucceed.github.io/G8_Prime_Factorisation_Additional_Questions/",
     "ps1": "https://waytosucceed.github.io/G8_Even_Odd_Prime_And_Composite_Numbers_PS/",
     "ps2": "https://waytosucceed.github.io/G8_Prime_Factorisation_PS/"
+  }
   ,
   "c4": {
     "ac1": "https://waytosucceed.github.io/G8_Prime_Factorisation_Previous_Questions/",
@@ -40,7 +41,14 @@
     "ac1": "https://waytosucceed.github.io/G8_HCF_and_LCM_Relation_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G8_HCF_LCM_Applications/",
     "ps1": "https://waytosucceed.github.io/G8_HCF_LCM_Applications_PS/"
-  },,
+  },
+  "c7": {
+    "ac1": "https://waytosucceed.github.io/G8_HCF_LCM_Applications_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G8_Introduction_to_Rationals_AC1/",
+    "ac3": "https://waytosucceed.github.io/G8_Introduction_to_Rationals_AC2/",
+    "ps1": "https://waytosucceed.github.io/G8_Introduction_to_Rationals_PS1/",
+    "ps2": "https://waytosucceed.github.io/G8_Introduction_to_Rationals_PS2/"
+  },
   "c29": {
     "ac1": "https://waytosucceed.github.io/G8NLC29_AC1_MATH/",
     "ac2": "https://waytosucceed.github.io/G8NLC29_AC2_MATH/",
