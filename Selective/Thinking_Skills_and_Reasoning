@@ -31,6 +31,12 @@
     "Assessment": "https://waytosucceed.github.io/SE6RTSM2_Assessment/",
     "Homework": "https://waytosucceed.github.io/SE6RTSM2_Homework/"
   },
+"RSC1":{
+    "AC1": "https://waytosucceed.github.io/SE6_Blood_Relations/",
+    "AC2": "https://waytosucceed.github.io/SE6_Coded_Family_Relations/",
+    "PS1": "https://waytosucceed.github.io/SE6_Blood_Relations_PS/",
+    "PS2": "https://waytosucceed.github.io/SE6_Coded_Family_Relations_PS/"
+  },
 "Mock_Test":{
     "Test1": "https://waytosucceed.github.io/SE6TH_Mock_Test_1/",
     "Test2": "https://waytosucceed.github.io/SE6TH_Mock_Test_2/"
