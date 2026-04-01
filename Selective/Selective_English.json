@@ -225,6 +225,8 @@
   },
   "Mock-Tests":{
     "Test1": "https://waytosucceed.github.io/SE6_Eng_Reading_MockTest-I/",
-    "Test2": "https://waytosucceed.github.io/SE6_Eng_Reading_MockTest-II/"
+    "Test2": "https://waytosucceed.github.io/SE6_Eng_Reading_MockTest-II/",
+    "Test3": "https://waytosucceed.github.io/SE6_Eng_Writing_MockTest-I/",
+    "Test4": "https://waytosucceed.github.io/SE6_Eng_Writing_MockTest-II/"
   }
 }
