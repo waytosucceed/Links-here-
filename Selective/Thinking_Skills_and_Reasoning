@@ -46,5 +46,11 @@
 "Mock_Test":{
     "Test1": "https://waytosucceed.github.io/SE6TH_Mock_Test_1/",
     "Test2": "https://waytosucceed.github.io/SE6TH_Mock_Test_2/"
+  },
+"TSC6":{
+    "AC1": "https://waytosucceed.github.io/SE6_Blocks_Reasoning-I/",
+    "AC2": "https://waytosucceed.github.io/SE6_Blocks_Reasoning-II/",
+    "PS1": "https://waytosucceed.github.io/SE6_Blocks_Reasoning-I_PS/",
+    "PS2": "https://waytosucceed.github.io/SE6_Blocks_Reasoning-II_PS/"
   }
 }
