@@ -110,7 +110,9 @@
     "PS": "https://waytosucceed.github.io/G8NL_Notice_Writing_PS/"
   },
   "c10": {
-    "ASSESSMENT": "https://waytosucceed.github.io/G8NLC12_ASSESSMENT_ENG/"
+    "ac1": "https://waytosucceed.github.io/G8M1Eng_Assessment/",
+    "ac2": "https://waytosucceed.github.io/G8M1Eng_Writing/",
+    "ac3": "https://waytosucceed.github.io/G8M1Eng_PS/",
   },
   "c11": {
     "ac1": "https://waytosucceed.github.io/G8NLC13_AC1_ENG/",
