@@ -202,18 +202,25 @@
     "ps1": "https://waytosucceed.github.io/G8NLC29_PS1_MATH/",
     "ps2": "https://waytosucceed.github.io/G8NLC29_PS2_MATH/"
   },
-  "c30_old": {
-    "ac1": "https://waytosucceed.github.io/G8NLC30_AC1_MATH/",
-    "ac2": "https://waytosucceed.github.io/G8NLC30_AC2_MATH/",
-    "ps1": "https://waytosucceed.github.io/G8NLC30_PS1_MATH/",
-    "ps2": "https://waytosucceed.github.io/G8NLC30_PS2_MATH/"
-  },
   "c30": {
     "ac1": "https://waytosucceed.github.io/G8_Algebra-VI_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G8_Algebra-VII_AC1/",
     "ac3": "https://waytosucceed.github.io/G8_Algebra-VII_AC2/",
     "ps1": "https://waytosucceed.github.io/G8_Algebra-VII_PS1/",
     "ps2": "https://waytosucceed.github.io/G8_Algebra-VII_PS2/"
+  },
+  "c30_old": {
+    "ac1": "https://waytosucceed.github.io/G8NLC30_AC1_MATH/",
+    "ac2": "https://waytosucceed.github.io/G8NLC30_AC2_MATH/",
+    "ps1": "https://waytosucceed.github.io/G8NLC30_PS1_MATH/",
+    "ps2": "https://waytosucceed.github.io/G8NLC30_PS2_MATH/"
+  },
+  "c31": {
+    "ac1": "https://waytosucceed.github.io/G8_Algebra-VII_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G8_Quadrants_Calculating_distances_Finding_Midpoint/",
+    "ac3": "https://waytosucceed.github.io/G8_Observing_Patterns_and_Drawing_Line_Graphs/",
+    "ps1": "https://waytosucceed.github.io/G8_Quadrants_Calculating_distances_Finding_Midpoint_PS/",
+    "ps2": "https://waytosucceed.github.io/G8_Observing_Patterns_and_Drawing_Line_Graphs_PS/"
   },
   "c31_old": {
     "ac1": "https://waytosucceed.github.io/G8NL_Area_Perimeter_of_square_and_rectangle_AC1/",
