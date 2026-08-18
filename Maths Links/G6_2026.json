@@ -343,5 +343,15 @@
     "ac3": "https://waytosucceed.github.io/G6_Graphs_Coordinates_AC2/",
     "ps1": "https://waytosucceed.github.io/G6_Graphs_Coordinates_PS1/"
     "ps2": "https://waytosucceed.github.io/G6_Graphs_Coordinates_PS2/"
+  },
+    "c54": {
+    "ac1": "https://waytosucceed.github.io/G6_Algebra_Ratios_Probability_Revision_AC1/",
+    "ac2": "https://waytosucceed.github.io/G6_Algebra_Ratios_Probability_Revision_AC2/",
+    "ps1": "https://waytosucceed.github.io/G6_Algebra_Ratios_Probability_Revision_PS1/",
+    "ps2": "https://waytosucceed.github.io/G6_Algebra_Ratios_Probability_Revision_PS2/"
+  },
+  "c55":{
+    "assessment": "https://waytosucceed.github.io/G6M5_Math_Assessment/",
+    "Homework": "https://waytosucceed.github.io/G6M5_Math_Homework/"
   }
 }
