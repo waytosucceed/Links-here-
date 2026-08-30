@@ -404,5 +404,19 @@
     "ac3": "https://waytosucceed.github.io/G10_Creative_Writing_AC3/",
     "ps": "https://waytosucceed.github.io/G10_Creative_Writing_PS1/",
     "ps": "https://waytosucceed.github.io/G10_Creative_Writing_PS2/",
+  },
+  "c55": {
+    "ac1": "https://waytosucceed.github.io/G10_Creative_Writing-II_AC1/",
+    "ac2": "https://waytosucceed.github.io/G10_Creative_Writing-II_AC2/",
+    "ac3": "https://waytosucceed.github.io/G10_Creative_Writing-II_AC3/",
+    "ps": "https://waytosucceed.github.io/G10_Creative_Writing-II_PS1/",
+    "ps": "https://waytosucceed.github.io/G10_Creative_Writing-II_PS2/",
+  },
+  "c56": {
+    "ac1": "https://waytosucceed.github.io/G10_Creative_Writing-III_AC1/",
+    "ac2": "https://waytosucceed.github.io/G10_Creative_Writing-III_AC2/",
+    "ac3": "https://waytosucceed.github.io/G10_Creative_Writing-III_AC3/",
+    "ps": "https://waytosucceed.github.io/G10_Creative_Writing-III_PS1/",
+    "ps": "https://waytosucceed.github.io/G10_Creative_Writing-III_PS2/",
   }
 }
