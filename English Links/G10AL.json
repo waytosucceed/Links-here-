@@ -418,5 +418,11 @@
     "ac3": "https://waytosucceed.github.io/G10_Creative_Writing-III_AC3/",
     "ps": "https://waytosucceed.github.io/G10_Creative_Writing-III_PS1/",
     "ps": "https://waytosucceed.github.io/G10_Creative_Writing-III_PS2/",
-  }
+  },
+    "c57": {
+    "ac1": "https://waytosucceed.github.io/G10M6Eng_Assessment/",
+    "ac2": "https://waytosucceed.github.io/G10M6Eng_Writing/",
+    "PS": "https://waytosucceed.github.io/G10M6Eng_PS1/",
+    "PS": "https://waytosucceed.github.io/G10M6Eng_PS2/"
+    }
 }
