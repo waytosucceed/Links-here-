@@ -430,5 +430,17 @@
     "ac2": "https://waytosucceed.github.io/G10Eng_Revision_Writing_1/",
     "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS1_1/",
     "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS2_1/"
+    },
+    "c59": {
+    "ac1": "https://waytosucceed.github.io/G10Eng_Revision_Assessment_2/",
+    "ac2": "https://waytosucceed.github.io/G10Eng_Revision_Writing_2/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS1_2/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS2_2/"
+    },
+    "c60": {
+    "ac1": "https://waytosucceed.github.io/G10Eng_Revision_Assessment_3/",
+    "ac2": "https://waytosucceed.github.io/G10Eng_Revision_Writing_3/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS1_3/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS2_3/"
     }
 }
