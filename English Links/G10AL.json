@@ -442,5 +442,29 @@
     "ac2": "https://waytosucceed.github.io/G10Eng_Revision_Writing_3/",
     "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS1_3/",
     "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS2_3/"
+    },
+    "c61": {
+    "ac1": "https://waytosucceed.github.io/G10Eng_Revision_Assessment_4/",
+    "ac2": "https://waytosucceed.github.io/G10Eng_Revision_Writing_4/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS1_4/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS2_4/"
+    },
+    "c62": {
+    "ac1": "https://waytosucceed.github.io/G10Eng_Revision_Assessment_5/",
+    "ac2": "https://waytosucceed.github.io/G10Eng_Revision_Writing_5/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS1_5/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS2_5/"
+    },
+    "c63": {
+    "ac1": "https://waytosucceed.github.io/G10Eng_Revision_Assessment_6/",
+    "ac2": "https://waytosucceed.github.io/G10Eng_Revision_Writing_6/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS1_6/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS2_6/"
+    },
+    "c64": {
+    "ac1": "https://waytosucceed.github.io/G10Eng_Revision_Assessment_7/",
+    "ac2": "https://waytosucceed.github.io/G10Eng_Revision_Writing_7/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS1_7/",
+    "PS": "https://waytosucceed.github.io/G10Eng_Revision_PS2_7/"
     }
 }
