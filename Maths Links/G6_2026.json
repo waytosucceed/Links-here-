@@ -418,5 +418,12 @@
   "c65":{
     "assessment": "https://waytosucceed.github.io/G6M6_Math_Assessment/",
     "Homework": "https://waytosucceed.github.io/G6M6_Math_Homework/"
+  },
+    "c66": {
+    "ac1": "https://waytosucceed.github.io/G6_Direction_Sense_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G6_Area_of_compound_complex_shapes/",
+    "ac3": "https://waytosucceed.github.io/G9_Area_and_Perimeter_real_life_word_problem/",
+    "ps1": "https://waytosucceed.github.io/G6_Area_of_compound_complex_shapes_PS/"
+    "ps2": "https://waytosucceed.github.io/G9_Area_and_Perimeter_real_life_word_problem_PS/"
   }
 }
