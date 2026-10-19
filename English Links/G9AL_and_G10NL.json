@@ -468,5 +468,19 @@
     "ac3": "https://waytosucceed.github.io/G9_Poetry_Analysis-III_AC3/",
     "ps": "https://waytosucceed.github.io/G9_Poetry_Analysis-III_PS1/",
     "ps": "https://waytosucceed.github.io/G9_Poetry_Analysis-III_PS2/",
+  },
+  "c68": {
+    "ac1": "https://waytosucceed.github.io/G9_Expository_Writing-I_AC1/",
+    "ac2": "https://waytosucceed.github.io/G9_Expository_Writing-I_AC2/",
+    "ac3": "https://waytosucceed.github.io/G9_Expository_Writing-I_AC3/",
+    "ps": "https://waytosucceed.github.io/G9_Expository_Writing-I_PS1/",
+    "ps": "https://waytosucceed.github.io/G9_Expository_Writing-I_PS2/",
+  },
+  "c69": {
+    "ac1": "https://waytosucceed.github.io/G9_Expository_Writing-II_AC1/",
+    "ac2": "https://waytosucceed.github.io/G9_Expository_Writing-II_AC2/",
+    "ac3": "https://waytosucceed.github.io/G9_Expository_Writing-II_AC3/",
+    "ps": "https://waytosucceed.github.io/G9_Expository_Writing-II_PS1/",
+    "ps": "https://waytosucceed.github.io/G9_Expository_Writing-II_PS2/",
   }
 }
