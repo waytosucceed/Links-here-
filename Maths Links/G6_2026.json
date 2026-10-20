@@ -434,10 +434,24 @@
     "ps2": "https://waytosucceed.github.io/G6_Choose_The_Best_Average_PS/"
   },
     "c68": {
-    "ac1": " https://waytosucceed.github.io/G6_Choose_The_Best_Average_Previous_Questions/",
+    "ac1": "https://waytosucceed.github.io/G6_Choose_The_Best_Average_Previous_Questions/",
     "ac2": "https://waytosucceed.github.io/G6_Translation_Reflection_and_Rotation_AC1/",
     "ac3": "https://waytosucceed.github.io/G6_Translation_Reflection_and_Rotation_AC2/",
     "ps1": "https://waytosucceed.github.io/G6_Translation_Reflection_and_Rotation_PS1/"
     "ps2": "https://waytosucceed.github.io/G6_Translation_Reflection_and_Rotation_PS2/"
+  },
+    "c69": {
+    "ac1": "https://waytosucceed.github.io/G6_Translation_Reflection_and_Rotation_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G6_Sequence_of_transformations/",
+    "ac3": "https://waytosucceed.github.io/G6_Enlargement_and_Reduction/",
+    "ps1": "https://waytosucceed.github.io/G6_Sequence_of_transformations_PS/"
+    "ps2": "https://waytosucceed.github.io/G6_Enlargement_and_Reduction_PS/"
+  },
+    "c70": {
+    "ac1": "https://waytosucceed.github.io/G6_Sequence_of_transformations_Previous_Questions/",
+    "ac2": "https://waytosucceed.github.io/G6_Symmetry_AC1/",
+    "ac3": "https://waytosucceed.github.io/G6_Symmetry_AC2/",
+    "ps1": "https://waytosucceed.github.io/G6_Symmetry_PS1/"
+    "ps2": "https://waytosucceed.github.io/G6_Symmetry_PS2/"
   }
 }
